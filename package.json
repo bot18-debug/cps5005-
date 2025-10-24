@@ -1,7 +1,7 @@
 {
   "name": "cps5005-",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -18,6 +18,10 @@
   "homepage": "https://github.com/bot18-debug/cps5005-#readme",
   "description": "",
   "dependencies": {
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "lodash": "^4.17.21",
+    "mango": "^0.0.4",
+    "node": "^24.10.0",
+    "qs": "^6.14.0"
   }
 }
